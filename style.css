@@ -1,0 +1,38 @@
+h3{
+    text-align: left;
+    color:red;
+    font-size:15px;
+}
+
+h5{
+    text-align: left;
+}
+
+h1{
+   text-align: center;
+}
+
+img{
+    margin-left: 46%;
+    margin-right: 60%;
+    width:100px;
+    height: 100px; 
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+th,td{
+    border: 2px solid black;
+}
+
+th{
+    background-color: #9f9b9b;
+}
+
+td{
+    background-color: #f2f2f2;
+}
